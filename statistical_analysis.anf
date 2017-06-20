@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scave:Analysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:scave="http://www.omnetpp.org/omnetpp/scave">
+  <inputs>
+    <inputs name="/deadReckoning/results/General-0.sca"/>
+    <inputs name="/deadReckoning/results/General-0.vec"/>
+    <inputs name="/deadReckoning/results/General-1.sca"/>
+    <inputs name="/deadReckoning/results/General-1.vec"/>
+    <inputs name="/deadReckoning/results/General-10.sca"/>
+    <inputs name="/deadReckoning/results/General-10.vec"/>
+    <inputs name="/deadReckoning/results/General-11.sca"/>
+    <inputs name="/deadReckoning/results/General-11.vec"/>
+    <inputs name="/deadReckoning/results/General-12.sca"/>
+    <inputs name="/deadReckoning/results/General-12.vec"/>
+    <inputs name="/deadReckoning/results/General-13.sca"/>
+    <inputs name="/deadReckoning/results/General-13.vec"/>
+    <inputs name="/deadReckoning/results/General-14.sca"/>
+    <inputs name="/deadReckoning/results/General-14.vec"/>
+    <inputs name="/deadReckoning/results/General-15.sca"/>
+    <inputs name="/deadReckoning/results/General-15.vec"/>
+    <inputs name="/deadReckoning/results/General-16.sca"/>
+    <inputs name="/deadReckoning/results/General-16.vec"/>
+    <inputs name="/deadReckoning/results/General-17.sca"/>
+    <inputs name="/deadReckoning/results/General-17.vec"/>
+    <inputs name="/deadReckoning/results/General-18.sca"/>
+    <inputs name="/deadReckoning/results/General-18.vec"/>
+    <inputs name="/deadReckoning/results/General-19.sca"/>
+    <inputs name="/deadReckoning/results/General-19.vec"/>
+    <inputs name="/deadReckoning/results/General-2.sca"/>
+    <inputs name="/deadReckoning/results/General-2.vec"/>
+    <inputs name="/deadReckoning/results/General-3.sca"/>
+    <inputs name="/deadReckoning/results/General-3.vec"/>
+    <inputs name="/deadReckoning/results/General-4.sca"/>
+    <inputs name="/deadReckoning/results/General-4.vec"/>
+    <inputs name="/deadReckoning/results/General-5.sca"/>
+    <inputs name="/deadReckoning/results/General-5.vec"/>
+    <inputs name="/deadReckoning/results/General-6.sca"/>
+    <inputs name="/deadReckoning/results/General-6.vec"/>
+    <inputs name="/deadReckoning/results/General-7.sca"/>
+    <inputs name="/deadReckoning/results/General-7.vec"/>
+    <inputs name="/deadReckoning/results/General-8.sca"/>
+    <inputs name="/deadReckoning/results/General-8.vec"/>
+    <inputs name="/deadReckoning/results/General-9.sca"/>
+    <inputs name="/deadReckoning/results/General-9.vec"/>
+  </inputs>
+  <datasets/>
+  <chartSheets/>
+</scave:Analysis>

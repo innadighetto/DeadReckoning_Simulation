@@ -1,0 +1,3 @@
+package deadreckoning;
+
+@license(LGPL);
